@@ -6,3 +6,5 @@ manually tagged sentiments, Columns - UserName,ScreenName, Location,TweetAt,Orig
 * Data Exploration<br>
 * Data Cleaning <br>
 * Visualising frequently occuring words using WordCloud
+# PART-2 - Topic Modelling <hr>
+* Implementing NMF to obtain latent topics from processed tweets
